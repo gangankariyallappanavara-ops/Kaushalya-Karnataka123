@@ -1,0 +1,37 @@
+com.kaushalyakarnataka.app-startup-runtime-1.1.1-0 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\0706586b146540f555f18bd33af4abe0\workspace\transformed\startup-runtime-1.1.1\res
+com.kaushalyakarnataka.app-activity-compose-1.12.4-1 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\0bb10db03c3eefda8a1f66671f3b9b12\workspace\transformed\activity-compose-1.12.4\res
+com.kaushalyakarnataka.app-tracing-1.2.0-2 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\22a69fbfe9daba185ff5600eeecb9728\workspace\transformed\tracing-1.2.0\res
+com.kaushalyakarnataka.app-lifecycle-livedata-core-2.10.0-3 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\2957a61f8349e46f4533da9fa0be5d3b\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.kaushalyakarnataka.app-material3-release-4 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\2ca2c873035d708694caffcd90a4f042\workspace\transformed\material3-release\res
+com.kaushalyakarnataka.app-customview-poolingcontainer-1.0.0-5 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\30f0f848e17510a5168fa4eb26606abb\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.kaushalyakarnataka.app-ui-test-manifest-1.9.2-6 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\366a4b0505f218f5efb150ee59c4c527\workspace\transformed\ui-test-manifest-1.9.2\res
+com.kaushalyakarnataka.app-core-1.17.0-7 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\395c051507f880184358c425307aa41b\workspace\transformed\core-1.17.0\res
+com.kaushalyakarnataka.app-annotation-experimental-1.4.1-8 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\3e959fbfe375bc416ac0d90f561de5d2\workspace\transformed\annotation-experimental-1.4.1\res
+com.kaushalyakarnataka.app-lifecycle-viewmodel-ktx-2.10.0-9 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\41cb636838fcdd623c7c68f151bc4feb\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.kaushalyakarnataka.app-material-release-10 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\44d030fa35b818c2d0beb9ffecb3c433\workspace\transformed\material-release\res
+com.kaushalyakarnataka.app-lifecycle-runtime-11 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\4c9f0a33a2c7678d61455bfb9430d2f9\workspace\transformed\lifecycle-runtime\res
+com.kaushalyakarnataka.app-core-ktx-1.17.0-12 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\6ba640e6cf5f80ab80a0c2323ad6e515\workspace\transformed\core-ktx-1.17.0\res
+com.kaushalyakarnataka.app-profileinstaller-1.4.0-13 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\742dfec280a482f0040a880eef378d7b\workspace\transformed\profileinstaller-1.4.0\res
+com.kaushalyakarnataka.app-lifecycle-process-2.10.0-14 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\7759ad41805ee39702f6a9d4a016645d\workspace\transformed\lifecycle-process-2.10.0\res
+com.kaushalyakarnataka.app-material-icons-core-release-15 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\8981a1ce51bb354997b30e2bae266416\workspace\transformed\material-icons-core-release\res
+com.kaushalyakarnataka.app-savedstate-ktx-1.4.0-16 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\8f79ea31faeb182d645beee4fa82772f\workspace\transformed\savedstate-ktx-1.4.0\res
+com.kaushalyakarnataka.app-foundation-release-17 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\909b60486a53d60b29ba8d2965c8be6f\workspace\transformed\foundation-release\res
+com.kaushalyakarnataka.app-activity-ktx-1.12.4-18 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\a90d3fbed53e44666989fe7029b2bec4\workspace\transformed\activity-ktx-1.12.4\res
+com.kaushalyakarnataka.app-navigationevent-19 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\ad842cb6b1ec42ffe78cd375ebb934c6\workspace\transformed\navigationevent\res
+com.kaushalyakarnataka.app-material-ripple-release-20 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\b063a55b34c45735dc3ab6f6855b8240\workspace\transformed\material-ripple-release\res
+com.kaushalyakarnataka.app-graphics-path-1.0.1-21 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\be50b8f1cb225a48e9d489e0d2ea6b00\workspace\transformed\graphics-path-1.0.1\res
+com.kaushalyakarnataka.app-ui-graphics-release-22 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\ce41b60ea3bd152e06d2bb323cfc3554\workspace\transformed\ui-graphics-release\res
+com.kaushalyakarnataka.app-core-runtime-2.2.0-23 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\d468ed4432279df34619eb5ecd87e264\workspace\transformed\core-runtime-2.2.0\res
+com.kaushalyakarnataka.app-ui-release-24 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\d55409eea5dc8307447e660b21bf2a29\workspace\transformed\ui-release\res
+com.kaushalyakarnataka.app-lifecycle-viewmodel-25 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\d887ac7ff30391a6cb2981153debd538\workspace\transformed\lifecycle-viewmodel\res
+com.kaushalyakarnataka.app-savedstate-26 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\e261123df4a8b47df1364ca17d0b8cf6\workspace\transformed\savedstate\res
+com.kaushalyakarnataka.app-core-viewtree-1.0.0-27 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\f1fcddd158cf82622da3f8c4b10618da\workspace\transformed\core-viewtree-1.0.0\res
+com.kaushalyakarnataka.app-emoji2-1.4.0-28 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\f92d0527910143037f13004cb66cb8b0\workspace\transformed\emoji2-1.4.0\res
+com.kaushalyakarnataka.app-activity-1.12.4-29 C:\Users\GANGA\.gradle\caches\9.2.1\transforms\f9d256bbbc7c4405b94207527c57cd9f\workspace\transformed\activity-1.12.4\res
+com.kaushalyakarnataka.app-pngs-30 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\build\generated\res\pngs\debug
+com.kaushalyakarnataka.app-updated_navigation_xml-31 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\build\generated\updated_navigation_xml\debug
+com.kaushalyakarnataka.app-packageDebugResources-32 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kaushalyakarnataka.app-packageDebugResources-33 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kaushalyakarnataka.app-debug-34 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.kaushalyakarnataka.app-debug-35 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\src\debug\res
+com.kaushalyakarnataka.app-main-36 C:\Users\GANGA\Desktop\GANGA MALLAMMA\KaushalyaKarnataka\app\src\main\res

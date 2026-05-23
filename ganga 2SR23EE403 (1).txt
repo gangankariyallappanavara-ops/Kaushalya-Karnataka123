@@ -1,0 +1,100 @@
+// File: app/src/main/java/com/kaushalyakarnataka/data/model/User.kt
+package com.kaushalyakarnataka.data.model
+
+data class User(
+    var userId: String = "",
+    var name: String = "",
+    var email: String = "",
+    var phone: String = "",
+    var role: String = "", // "worker" or "customer"
+    var address: String = "",
+    var profileImage: String = "",
+    var createdAt: Any? = null,
+    var updatedAt: Any? = null,
+    var skillCategory: String? = null,
+    var experience: Int? = null,
+    var bio: String? = null,
+    var rating: Double = 0.0,
+    var totalReviews: Int = 0
+)
+// File: app/src/main/java/com/kaushalyakarnataka/utils/Constants.kt
+package com.kaushalyakarnataka.utils
+
+object Constants {
+    const val COLLECTION_USERS = "users"
+    const val ROLE_WORKER = "worker"
+    const val ROLE_CUSTOMER = "customer"
+    val SKILL_CATEGORIES = listOf("Electrician", "Plumber", "Carpenter", "Painter", "Mechanic")
+    const val MIN_PASSWORD_LENGTH = 6
+    const val PHONE_NUMBER_LENGTH = 10
+}
+
+// File: app/src/main/java/com/kaushalyakarnataka/utils/ValidationUtils.kt
+package com.kaushalyakarnataka.utils
+
+object ValidationUtils {
+    fun isValidPhone(phone: String): Boolean {
+        return phone.length == Constants.PHONE_NUMBER_LENGTH &&
+               phone.all { it.isDigit() } &&
+               phone.first() in '6'..'9'
+    }
+    fun isValidPassword(password: String): Boolean = password.length >= Constants.MIN_PASSWORD_LENGTH
+}
+// File: app/src/main/java/com/kaushalyakarnataka/data/Result.kt
+package com.kaushalyakarnataka.data
+
+sealed class Result<out T> {
+    data class Success<T>(val data: T) : Result<T>()
+    data class Error(val message: String) : Result<Nothing>()
+    object Loading : Result<Nothing>()
+}
+// File: app/src/main/java/com/kaushalyakarnataka/data/model/User.kt
+package com.kaushalyakarnataka.data.model
+
+data class User(
+    var userId: String = "",
+    var name: String = "",
+    var email: String = "",
+    var phone: String = "",
+    var role: String = "", // "worker" or "customer"
+    var address: String = "",
+    var profileImage: String = "",
+    var createdAt: Any? = null,
+    var updatedAt: Any? = null,
+    var skillCategory: String? = null,
+    var experience: Int? = null,
+    var bio: String? = null,
+    var rating: Double = 0.0,
+    var totalReviews: Int = 0
+)
+// File: app/src/main/java/com/kaushalyakarnataka/utils/Constants.kt
+package com.kaushalyakarnataka.utils
+
+object Constants {
+    const val COLLECTION_USERS = "users"
+    const val ROLE_WORKER = "worker"
+    const val ROLE_CUSTOMER = "customer"
+    val SKILL_CATEGORIES = listOf("Electrician", "Plumber", "Carpenter", "Painter", "Mechanic")
+    const val MIN_PASSWORD_LENGTH = 6
+    const val PHONE_NUMBER_LENGTH = 10
+}
+
+// File: app/src/main/java/com/kaushalyakarnataka/utils/ValidationUtils.kt
+package com.kaushalyakarnataka.utils
+
+object ValidationUtils {
+    fun isValidPhone(phone: String): Boolean {
+        return phone.length == Constants.PHONE_NUMBER_LENGTH &&
+               phone.all { it.isDigit() } &&
+               phone.first() in '6'..'9'
+    }
+    fun isValidPassword(password: String): Boolean = password.length >= Constants.MIN_PASSWORD_LENGTH
+}
+// File: app/src/main/java/com/kaushalyakarnataka/data/Result.kt
+package com.kaushalyakarnataka.data
+
+sealed class Result<out T> {
+    data class Success<T>(val data: T) : Result<T>()
+    data class Error(val message: String) : Result<Nothing>()
+    object Loading : Result<Nothing>()
+}
